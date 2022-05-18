@@ -20,8 +20,8 @@ public class GoogleSignInDemo : MonoBehaviour
     private GoogleSignInConfiguration configuration;
 
     //public string UName;
-    private string UEmail = "EMAIL";
-    private string UID = "UID";
+    private string UEmail = "wqeqw";
+    private string UID = "123123";
 
     private void Awake()
     {
